@@ -1,7 +1,14 @@
-# ##########################################
-# https://osp4diss.vlsm.org/ETC/logCodes.txt
-# ##########################################
-#
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+# LogCode reference:
+# https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+ZCZC W00 10 L11 Assignment #01 (Creating os212 repository)
+ZCZC W00 5 L12 Assignment #02 (Starting my Week 00 Log)
+ZCZC W00 20 L14 Assignment #03 (Creating My Github Page)
+ZCZC W00 5 L12 Assignment #04 (Course registration via Google Form)
+ZCZC W00 5 L01 First Contact & Second Contact forum on SCELE
+ZCZC W00 30 L15 Assignment #05 (Udacity: watch Operating Systems: Visual Metaphor playlist)
+ZCZC W00 50 L15 Assignment #05 (What defines an Operating System?)
+ZCZC W00 100 L02 Monday Zoom meeting
