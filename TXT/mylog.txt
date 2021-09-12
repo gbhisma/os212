@@ -12,3 +12,14 @@ ZCZC W00 5 L01 First Contact & Second Contact forum on SCELE
 ZCZC W00 30 L15 Assignment #05 (Udacity: watch Operating Systems: Visual Metaphor playlist)
 ZCZC W00 50 L15 Assignment #05 (What defines an Operating System?)
 ZCZC W00 100 L02 Monday Zoom meeting
+ZCZC W01 5 L05 First quiz
+ZCZC W01 15 L11 Assignment #01: download and install VirtualBox
+ZCZC W01 30 L12 Assignment #02: download and install the debian ISO
+ZCZC W01 20 L13 Assignment #03: the vim crash course + a few other videos
+ZCZC W01 40 L14 Assignment #04: dressing up virtual guest
+ZCZC W01 20 L15 Assignment #05: SSH key and git cloning
+ZCZC W01 15 L16 Assignment #06: dressing up GitHub Page
+ZCZC W01 5 L17 Assignment #07: update mylog.txt
+ZCZC W01 20 L13 Assignment #08: reading up on regex
+ZCZC W01 30 L19 Assignment #09: read chapter 18
+ZCZC W01 100 L99 Tried to do COMPFEST' CTF mirror contest on my virtual kali
