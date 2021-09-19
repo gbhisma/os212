@@ -23,3 +23,15 @@ ZCZC W01 5 L17 Assignment #07: update mylog.txt
 ZCZC W01 20 L13 Assignment #08: reading up on regex
 ZCZC W01 30 L19 Assignment #09: read chapter 18
 ZCZC W01 100 L99 Tried to do COMPFEST' CTF mirror contest on my virtual kali
+ZCZC W02 100 L02 Monday sync class
+ZCZC W02 45 L11 skim read chp 16 and 17
+ZCZC W02 5 L14 Generated GPG Key Pair
+ZCZC W02 5 L16 Import ospubkey.txt
+ZCZC W02 5 L17 Signed OS public Key and a few of my friends' pub ey
+ZCZC W02 10 L18 Export my public key to TXT/mypubkey.txt
+ZCZC W02 10 L19 Update bookmark links
+ZCZC W02 10 L20 created myrank.txt and rated my peer's links
+ZCZC W02 10 L09 Assignment #11: copased myscript.sh
+ZCZC W02 10 L09 Assignment #12: updated mylog.txt
+ZCZC W02 10 L09 Assignment #13: generated SHA256SUM and SHA256SUM.asc
+ZCZC W02 150 L12 Watched the assigned videos as a podcast
