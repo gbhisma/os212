@@ -44,4 +44,17 @@ ZCZC W03 20 L12 Tried a few demos
 ZCZC W03 20 L13 Tried to read last year's mid term
 ZCZC W03 10 L14 reviewed my bash aliases
 ZCZC W03 20 L05 Monday morning quiz
+ZCZC W04 100 L02 Monday Zoom Meeting
+ZCZC W04 20 L11 Skim read chapter 9
+ZCZC W04 20 L12 Try demos
+ZCZC W04 20 L13 Try previous midterm problems
+ZCZC W04 5 L14 Install packages
+ZCZC W04 20 L15 Fetch and extract week04 stuff
+ZCZC W04 10 L16 Finding some interesting links
+ZCZC W04 10 L17 Review peer links
+ZCZC W04 10 L18 Update mylog.tx
+ZCZC W04 5 L19 commit and pushing my repo
+
+
+
 
