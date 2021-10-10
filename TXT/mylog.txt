@@ -60,6 +60,7 @@ ZCZC W05 20 L12 tried a few demos
 ZCZC W05 20 L13 tried a few MidTerm Problems
 ZCZC W05 30 L14 set my memory to ~200 MB and did all assignments
 ZCZC W05 5 L15 tried to update link, found none worth taking
+ZCZC W05 10 L16 added some tips for anyone learning OS
 ZCZC W05 5 L17 Reviewed my peer links
 ZCZC W05 10 L18 Updated my log
 ZCZC W05 5 L19 pushed and commit my repo
