@@ -66,6 +66,18 @@ ZCZC W05 10 L18 Updated my log
 ZCZC W05 5 L19 pushed and commit my repo
 ZCZC W05 40 L22 Monday morning quizes
 ZCZC W05 10 L01 myweek05.txt on ckilat server as instructed on the forum
+ZCZC W06 40 L11 Assignment #1: Skimmed chpt 3 and 4
+ZCZC W06 45 L12 Assignment #2: Tried demos (and tried to understand them)
+ZCZC W06 40 L13 Assignment #3: Tried a few midterm problems
+ZCZC W06 20 L14 Assignment #4: Fork() and shared memory stuff
+ZCZC W06 10 L15 Assignment #5: Tried to find some interesting links. FOund none
+ZCZC W06 10 L16 Assignment #6: Added a new tips on /TIPS/
+ZCZC W06 5 L17 Assignment #7: Reviewed peer link 
+ZCZC W06 20 L18 Assignment #8: Updated Log
+ZCZC W06 5 L19 Assignment #9: Submitted Week 06 Assignments
+ZCZC W06 100 L02 Monday Zoom meeting 
 
+
+ 
 
 
