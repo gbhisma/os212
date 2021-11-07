@@ -76,8 +76,12 @@ ZCZC W06 5 L17 Assignment #7: Reviewed peer link
 ZCZC W06 20 L18 Assignment #8: Updated Log
 ZCZC W06 5 L19 Assignment #9: Submitted Week 06 Assignments
 ZCZC W06 100 L02 Monday Zoom meeting 
-
-
- 
-
-
+ZCZC W07 100 L02 Monday zoom meeting
+ZCZC W07 40 L11 Assignment #1: Skimmed chpt 6, 7 and 8
+ZCZC W07 30 L12 Assignment #2: Tried demos (and tried to understand them)
+ZCZC W07 40 L13 Assignment #3: Tried a few midterm problems
+ZCZC W07 30 L14 Assignment #4: Sync and shared memory
+ZCZC W07 10 L15 Assignment #5: Tried to find some interesting links. FOund none
+ZCZC W07 5 L17 Assignment #7: Reviewed peer link
+ZCZC W07 20 L18 Assignment #8: Updated Log
+ZCZC W07 5 L19 Assignment #9: Submitted Week 07 Assignments
