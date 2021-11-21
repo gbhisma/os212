@@ -95,3 +95,12 @@ ZCZC W08 20 L17 Assigment #7: added a tips
 ZCZC W08 20 L18 Assignment #8: reviewd my peer lins
 ZCZC W08 20 L19 Assignment #9: updated my log
 ZCZC W08 100 L02 Monday zoom meeting
+ZCZC W09 45 L11 Assignment #1: skimmed chpt. 11
+ZCZC W09 30 L12 Assignment #2: tried a few demos
+ZCZC W09 15 L13 Assignment #3: tried a few final problems
+ZCZC W09 360 L14 Assignment #4: LFS chpt 5 - 8
+ZCZC W09 10 L15 Assignment #5: updated my bookmarks
+ZCZC W09 10 L16 Assignment #6: updated my tips
+ZCZC W09 10 L17 Assignment #7: reviewed my peer links
+ZCZC W09 10 L18 Assignment #8: updated my log
+ZCZC W09 5 L19 Assignment #9: Pushing the repo
