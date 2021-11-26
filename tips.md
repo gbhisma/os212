@@ -9,5 +9,5 @@ permalink: /TIPS/
 4. Never skip a week of assignments. Ever. <br>
 5. Remember to push your repo. <br>
 6. Remember to run myscript.sh BEFORE pushing your repo. <br>
-
+7. try to finish your assignments before the weekends. <br>
 

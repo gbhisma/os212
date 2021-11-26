@@ -104,3 +104,14 @@ ZCZC W09 10 L16 Assignment #6: updated my tips
 ZCZC W09 10 L17 Assignment #7: reviewed my peer links
 ZCZC W09 10 L18 Assignment #8: updated my log
 ZCZC W09 5 L19 Assignment #9: Pushing the repo
+ZCZC W10 100 L02 Monday zoom meeting
+ZCZC W10 45 L11 Assignment #1: skimmed chpt 12
+ZCZC W10 30 L12 Assignment #2: tried a few demos 
+ZCZC W10 40 L13 Assignment #3: tried a few finals problems
+ZCZC W10 700 L14 Assignment #4: LFS chapter 8
+ZCZC W10 10 L15 Assignment #5: updated a few bookmarks
+ZCZC W10 10 L16 Assignment #6: added a few tips
+ZCZC W10 10 L17 Assginemnt #7: reviewed peer links
+ZCZC W10 10 L18 Assignment #8: updated my log
+ZCZC W10 10 L19 Assignment #9: pushing the repo
+
